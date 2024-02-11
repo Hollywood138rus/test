@@ -1,1 +1,2 @@
-print(2+10)
+136//7
+print('Hello world')
